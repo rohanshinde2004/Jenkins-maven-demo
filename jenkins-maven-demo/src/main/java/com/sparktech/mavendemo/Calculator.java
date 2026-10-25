@@ -2,7 +2,7 @@ package com.sparktech.mavendemo;
 
 /**
  * Provides basic mathematical operations such as addition,
- * subtraction, multiplication, division, and even-number checking.
+ * subtraction, multiplication, division, and even-number .
  */
 public class Calculator {
 
